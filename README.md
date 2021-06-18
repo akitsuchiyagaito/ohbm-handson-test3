@@ -1,10 +1,13 @@
-https://mybinder.org/v2/gh/akitsuchiyagaito/ohbm-handson-test3/2dc46a3898be030b68d11effb662445d143a9aa4
-
 # Content to reproduce paper titled "Hello World"
 
 ## Content
 
 Data and scripts are contained in the respective folders
+
+## Run in the cloud
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akitsuchiyagaito/ohbm-handson-test3/HEAD)
+
+## Run locally
 
 ## Installation
 
