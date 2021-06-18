@@ -8,10 +8,10 @@ Data and scripts are contained in the respective folders
 
 Python is required. It is recommended to install and run the code in a virtual environment.
 
-1. install miniconda
-2. 2. Creat a new environment: 'conda create -n mypythonenv python=3.6'
-3. 3. Activee environment: 'conda activate mypythonenv'
-4. 4. Follow next steps
+1. Install miniconda
+2. Creat a new environment: 'conda create -n mypythonenv python=3.6'
+3. Activee environment: 'conda activate mypythonenv'
+4. Follow next steps
 
 Install required packages with 'pip':
 
